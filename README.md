@@ -18,15 +18,15 @@ An Automated Marketing Tool Built using Liquid Carrot
 
 - Need to find this**
 
-### Free High-Quality Pictures for Content Generation:
-
+### Photos
+>Free High-Quality Pictures for Content Generation
 **Unsplash**
 * [Website](https://unsplash.com/)
 * [Documentation](https://unsplash.com/documentation)
   * Use trending hashtag for search content
 
-### Free Quotes for Content Captions:
-
+### Captions
+>Free Quotes for Content Captions
 **Brainy Quote**
 * [Website](https://www.brainyquote.com/)
 * [JavaScript Feed](https://www.brainyquote.com/feeds/todays_quote)
