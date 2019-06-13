@@ -8,6 +8,7 @@ An Automated Marketing Tool Built using Liquid Carrot
 * [Github Repo](https://github.com/GoogleChrome/puppeteer)
 
 **Others...**
+* Insert here
 
 ## 1. Content Generation
 
@@ -19,12 +20,12 @@ An Automated Marketing Tool Built using Liquid Carrot
 
 ### Free High-Quality Pictures for Content Generation:
 
-* Unsplash: [Website](https://unsplash.com/)
+* [Unsplash](https://unsplash.com/)
   * Use trending hashtag on search bar here
 
 ### Free Quotes for Content Captions:
 
-* Brainy Quote: [Website](https://www.brainyquote.com/)
+* [Brainy Quote](https://www.brainyquote.com/)
   * Use trending hashtag on search bar here
 -----
 
