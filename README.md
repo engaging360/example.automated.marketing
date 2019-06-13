@@ -20,12 +20,16 @@ An Automated Marketing Tool Built using Liquid Carrot
 
 ### Free High-Quality Pictures for Content Generation:
 
-* [Unsplash](https://unsplash.com/)
-  * Use trending hashtag on search bar here
+**Unsplash**
+* [Website](https://unsplash.com/)
+* [Documentation](https://unsplash.com/documentation)
+  * Use trending hashtag for search content
 
 ### Free Quotes for Content Captions:
 
-* [Brainy Quote](https://www.brainyquote.com/)
+**Brainy Quote**
+* [Website](https://www.brainyquote.com/)
+* [JavaScript Feed](https://www.brainyquote.com/feeds/todays_quote)
   * Use trending hashtag on search bar here
 -----
 
